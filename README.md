@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi there. I'm Antonio Souza 👋
 
 <!--
+
+- 🔭 I’m currently working on Scipopulis
+
+<b>⚡ My most currently used languages ⚡</b>
+<div> 
+  <a href="https://github.com/Antonio-apt/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-apt&hide=jupyter+notebook&layout=compact&theme=dark&hide_title=true&exclude_repo=ChessGame-console" />
+  </a>
+</div>
+
 **Antonio-apt/Antonio-apt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
