@@ -1,5 +1,20 @@
 ### Hi there. I'm Antonio Souza 👋
 
+I'm a **Front-end developer**.
+
+- 🌱 I’m currently learning about **Design Patterns** and **Aws**
+- 💬 Ask me about anything and i will try to help you
+- 📫 Email: [**antonios16020@gmail.com**](mailto:antonios16020@gmail.com)
+- 📫 LinkedIn: [**Antonio Souza**](https://www.linkedin.com/in/antoniogsouza/)
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-apt&layout=compact&theme=cobalt" /></td>
+    </tr>   
+</table>
+</center> 
+
 <!--
 
 - 🔭 I’m currently working on Scipopulis
