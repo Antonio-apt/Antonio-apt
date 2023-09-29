@@ -2,7 +2,7 @@
 
 I'm a **Front-end developer**.
 
-- 🌱 I’m currently learning about **Design Patterns**, **Aws** and **Go**
+- 🌱 I’m currently learning about **Mobile development**, **AWS** and **Go**
 - 💬 Ask me about anything and i will try to help you
 - 📫 Email: [**antonios16020@gmail.com**](mailto:antonios16020@gmail.com)
 - 📫 LinkedIn: [**Antonio Souza**](https://www.linkedin.com/in/antoniogsouza/)
